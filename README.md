@@ -12,4 +12,7 @@ Watch tutorial on Youtube.
 Testing
 
 
+## local development
 
+1. Open index.html in your browser.
+2. 
